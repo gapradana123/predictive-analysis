@@ -1,2 +1,2 @@
 # predictive-analysis
-Kode untuk fraud detection.
+Kode untuk fraud detection
